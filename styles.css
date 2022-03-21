@@ -1,0 +1,16 @@
+header{
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(#1f2d5f, #243160);
+  position: relative;
+}
+.navbar{
+  width: 92%;
+  margin: auto;
+}
+.text-box{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
